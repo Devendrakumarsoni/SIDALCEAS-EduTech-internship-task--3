@@ -18,5 +18,5 @@ Front and back side of the card must be made, i.e., both must be submitted. Do n
 
 #output
 
-ttps://drive.google.com/file/d/19-rwW27muYGIzN9Xjjc01yuXNPEuC8RN/view?usp=drivesdk
+https://drive.google.com/file/d/19-rwW27muYGIzN9Xjjc01yuXNPEuC8RN/view?usp=drivesdk
 
