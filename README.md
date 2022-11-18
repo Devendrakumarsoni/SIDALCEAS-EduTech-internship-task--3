@@ -16,4 +16,7 @@ Do not use harsh color schemes.
 
 Front and back side of the card must be made, i.e., both must be submitted. Do not use funky colors and fonts.
 
-https://drive.google.com/file/d/19-rwW27muYGIzN9Xjjc01yuXNPEuC8RN/view?usp=drivesdk
+#output
+
+ttps://drive.google.com/file/d/19-rwW27muYGIzN9Xjjc01yuXNPEuC8RN/view?usp=drivesdk
+
